@@ -1,7 +1,4 @@
-#
-# Advanced Robotics, 2022-2023
-# Paul Baxter
-# Workshop Week 2
+
 #
 # code based on example: https://github.com/MJeremy2017/Reinforcement-Learning-Implementation/blob/master/GridWorld/gridWorld.py
 # with description: https://towardsdatascience.com/reinforcement-learning-implement-grid-world-from-scratch-c5963765ebff
